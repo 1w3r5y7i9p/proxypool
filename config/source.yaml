@@ -2,12 +2,7 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
-http://dy.paoche.cf/api/v1/client/subscribe?token=52dca2d577d9869cafeeb5fb838a20db
-https://api.touhou.center/link/cEYx7YABWJSRWDP9?mu=0
-https://jj-rss-01.best/link/INb4pbkPJKvsbHOj?sub=1
-https://rxl-nc.xyz/link/uPQKx8YodD56dtvU?sub=3&extend=1
-https://www.pacifique.tech/api/v1/client/subscribe?token=fdf70a0411eef8200186f16d8bd0e903
-https://www.qcranee.com/link/mIbsDBIDIgCSdflX?sub=1
+
 # 订阅链接
 - type: subscribe
   options:
