@@ -31,7 +31,23 @@
 - type: subscribe
   options:
     url: https://maoxiongnet.com/link/314lSblDykwxN3PU?sub=3&extend=1
+- type: subscribe
+  options:
+    url: https://tro.zqwnan.tk/sip002/sub
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/sip002/sub
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/shadowsocks
+- type: subscribe
+  options:
+    url: https://proxypool.ga/sip002/sub
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/sip002/sub
 # 网页模糊抓取
+
 - type: webfuzz
   options:
     url:
